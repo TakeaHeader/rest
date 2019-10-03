@@ -1,0 +1,12 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {},
+  "timestamp": 1568629159294
+}{
+  "timestamp": "2019-09-16T10:19:27.729+0000",
+  "status": 200,
+  "error": "OK",
+  "message": "Error creating bean with name 'springApplicationAdminRegistrar': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)",
+  "path": "/user/saveUser"
+}

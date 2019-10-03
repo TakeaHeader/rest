@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-09-16T10:49:43.782+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Failed to obtain JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.",
+  "path": "/user/saveUser"
+}

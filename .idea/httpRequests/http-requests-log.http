@@ -1,0 +1,292 @@
+GET localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+GET localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+GET localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+GET localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST localhost:8080/auth/login
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T064943.500.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T064926.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T064821.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T064710.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T064652.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T064506.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T064430.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T064246.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T064223.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T062130.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T062041.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T061950.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T061927.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T061901.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T061019.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T101647.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T101633.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-16T101610.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T060624.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T060556.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T055007.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T055004-1.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T055004.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T054957.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T054807.200.json
+
+###
+
+POST http://localhost:8080/user/saveUser
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T054548.404.json
+
+###
+
+POST http://localhost:8080/user
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T054535.200.json
+
+###
+
+POST http://localhost:8080/user
+
+<> 2019-09-15T054500.200.json
+
+###
+
+GET http://localhost:8080/actuator/health
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-09-15T023935.503.json
+
+###
+
